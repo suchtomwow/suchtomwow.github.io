@@ -18,8 +18,9 @@ email: jthomascarey@gmail.com
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://suchtomwow.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: _tcarey
+twitter_username: suchtomwow
 github_username:  suchtomwow
+analytics_id: UA-59480112-1
 
 # Build settings
 markdown: kramdown

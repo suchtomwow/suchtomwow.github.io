@@ -6,12 +6,6 @@
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
-}
-
-.masthead-title {
-  margin-top: 0;
-  margin-bottom: 0;
-  color: $gray-4;
 
   a {
     color: inherit;
@@ -22,4 +16,10 @@
     font-weight: 400;
     opacity: .5;
   }
+}
+
+.masthead-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: $gray-4;
 }
