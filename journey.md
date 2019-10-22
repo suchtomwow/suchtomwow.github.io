@@ -75,7 +75,7 @@ Very scientific look into the history of humans and why and how religion probabl
 
 #### Unapologetic
 
-Such a great book and was instrumental in my thinking that the actual _existence_ of God is kind of an irrelevant concern in Christianity. Lots of language, but very empathetic and interesting arguments made by the author.
+Such a great book and was instrumental in my thinking that the actual _existence_ of God is kind of an irrelevant concern in Christianity. Lots of language, but very empathetic and interesting arguments made by the author. Also contains the most refreshing, genuine story of the gospel I've heard. 
 
 #### Finding God in the Waves
 
