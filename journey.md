@@ -63,6 +63,8 @@ A lot of it (especially Rob Bell) is very unscientific and only rooted a little 
 
 [The God Question](https://theliturgists.com/podcast/2019/5/2/the-god-question)
 
+[Pete Holmes Returns](https://theliturgists.com/podcast/2019/9/19/pete-holmes-returns) (This one has a bunch of swearing and is pretty ranty, but WOW is it good.)
+
 ## Books
 
 #### Blue Like Jazz
