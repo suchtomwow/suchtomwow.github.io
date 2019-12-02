@@ -3,13 +3,15 @@ layout: default
 title: journey
 ---
 
-# journey
+# Spiritual Resources
 
-warning: a lot of this stuff has adult language
+Warning: A lot of this stuff has adult language
 
-it's _okaaaay_ to disagree with any or all of this. but you must put forth effort to understanding that these are actual people describing their own experiences and they are smart and they are adults and they are capable of making their own decisions and thinking for themselves and coming to their own conclusions.
+Below is a list of resources that have helped inform my current worldview of the world and what I think about God and Jesus and Christianity. The books are generally in the order in which I read them, with the podcasts, videos, and music sprinkled throughout.
 
-A lot of it (especially Rob Bell) is very unscientific and only rooted a little bit in scripture. This is ok and intentional since they're addressing people who might not be totally sold on the bible's validity.
+It's absolutely OK to disagree with any or all of this, but you must put forth effort to understanding that these are actual people describing their own experiences. They are smart adults who are capable of making their own decisions and thinking for themselves and coming to their own conclusions (that may or may not align with what you currently think).
+
+A lot of it (especially Rob Bell) is very unscientific and only rooted a little bit in scripture. This is OK and intentional since they're addressing people who might not be totally sold on the bible's validity.
 
 ## Podcasts
 
@@ -67,37 +69,41 @@ A lot of it (especially Rob Bell) is very unscientific and only rooted a little 
 
 ## Books
 
-#### Blue Like Jazz
+#### [Blue Like Jazz](https://amzn.to/382lBjM)
 
 Read this years and years ago. My first foray into what other peoples' spiritual lives can look like, and that they can look waaaaay different than my own.
 
-#### Sapiens
+#### [Sapiens](https://amzn.to/35QyV8E)
 
-Very scientific look into the history of humans and why and how religion probably came about in that history. The entire book is super interesting, but the first few chapters are espcecially pertinent. The chapter on Buddhism is also really interesting.
+Very scientific look into the history of humans and why and how religion probably came about in that history. The entire book is super interesting, but the first few chapters are espcecially pertinent. The chapters on Buddhism and capitalism are also really interesting.
 
-#### Unapologetic
+#### [Unapologetic](https://amzn.to/2qWYs1u)
 
-Such a great book and was instrumental in my thinking that the actual _existence_ of God is kind of an irrelevant concern in Christianity. Lots of language, but very empathetic and interesting arguments made by the author. Also contains the most refreshing, genuine story of the gospel I've heard. 
+A little hard to read at first because of his British way of writing, but you get used to it eventually. Such a great book and was instrumental in my thinking that the actual _existence_ of God is kind of an irrelevant concern in Christianity. Lots of language, but very empathetic and interesting arguments made by the author. Also contains the most refreshing, genuine story of the gospel I've heard.
 
-#### Finding God in the Waves
+#### [Finding God in the Waves](https://amzn.to/2DFpGfv)
 
-Really easy book to read and just chronicles Mike McHargue's journey basically. Provides a lot of insight into _why_ people struggle with faith from a mostly Dawkins-esque viewpoint.
+Really easy book to read and just chronicles Mike McHargue's (co-host of The Liturgists podcast) journey basically. Provides a lot of insight into _why_ people struggle with faith from a mostly Dawkins-esque viewpoint.
 
-#### Love Wins
+#### [Love Wins](https://amzn.to/381x7eX)
 
 Talks a lot about heaven and hell and whether they were ever really meant to be interpreted as actual places, among other really interesting stuff. It's not _terribly_ thorough, but he makes some really interesting arguments.
 
-#### Just This
+#### [Just This](https://amzn.to/37V2O9Q)
 
 Lots of interesting tidbits into the history of Christianity. Provides a completely different paradigm for what it actually means to be a Christian. It's really just meditations on being and our interaction with the world. Not meant to be read straight through. I mainly would just read a couple meditations at a time and try to think about them for a few days.
 
-#### Traveling Mercies
+#### [Traveling Mercies](https://amzn.to/2YaJcKA)
 
 A lot like Blue Like Jazz, this is just Anne Lamott's experience and journey with life and how Christianity weaves into it throughout. Looks very different from conservative, evangelical Christianity and is very intriguing.
 
-#### Velvet Elvis
+#### [Velvet Elvis](https://amzn.to/2Y7HedK)
 
 Same author as Love Wins, this is a fresh take on how we should be thinking about Jesus and Christianity in the modern era. Makes strong arguments for what Jesus meant when he said certain things.
+
+#### [What Is The Bible](https://amzn.to/2OEf4Uu)
+
+Another Rob Bell. Provides a lot of context for passages in the bible and fresh ways to look at them. Really good.
 
 ## Videos
 
