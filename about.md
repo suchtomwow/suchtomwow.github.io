@@ -3,10 +3,11 @@ layout: page
 title: about
 ---
 
-Hi, I'm Thomas Carey. I do software stuff at [Blinker](http://www.blinker.com).
+Hi I'm Thomas
 
 #### Stuff I've worked on
 
+[Twitter](https://twitter.com)
 [Blinker iOS app](https://itunes.apple.com/us/app/blinker-power-to-buy-sell/id970157878)<br />
 [Blinker web app](https://refinance.blinker.com)<br />
 [Airpin](https://github.com/suchtomwow/Airpin)<br />
