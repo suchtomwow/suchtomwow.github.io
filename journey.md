@@ -3,15 +3,7 @@ layout: default
 title: journey
 ---
 
-# Spiritual Resources
-
-Warning: A lot of this stuff has adult language
-
-Below is a list of resources that have helped inform my current worldview of the world and what I think about God and Jesus and Christianity. The books are generally in the order in which I read them, with the podcasts, videos, and music sprinkled throughout.
-
-It's absolutely OK to disagree with any or all of this, but you must put forth effort to understanding that these are actual people describing their own experiences. They are smart adults who are capable of making their own decisions and thinking for themselves and coming to their own conclusions (that may or may not align with what you currently think).
-
-A lot of it (especially Rob Bell) is very unscientific and only rooted a little bit in scripture. This is OK and intentional since they're addressing people who might not be totally sold on the bible's validity.
+Below is a list of stuff that's been influential to me in the way that I think about faith and Christianity. The books are generally in the order in which I read them, with the podcasts, videos, and music sprinkled throughout.
 
 ## Podcasts
 
@@ -75,15 +67,15 @@ Read this years and years ago. My first foray into what other peoples' spiritual
 
 #### [Sapiens](https://amzn.to/35QyV8E)
 
-Very scientific look into the history of humans and why and how religion probably came about in that history. The entire book is super interesting, but the first few chapters are espcecially pertinent. The chapters on Buddhism and capitalism are also really interesting.
+Very scientific look into the history of humans and why and how religion probably came about in that history. The entire book is super interesting, but the first few chapters are especially pertinent. The chapters on Buddhism and capitalism are also really interesting.
 
 #### [Unapologetic](https://amzn.to/2qWYs1u)
 
-A little hard to read at first because of his British way of writing, but you get used to it eventually. Such a great book and was instrumental in my thinking that the actual _existence_ of God is kind of an irrelevant concern in Christianity. Lots of language, but very empathetic and interesting arguments made by the author. Also contains the most refreshing, genuine story of the gospel I've heard.
+A little hard to read at first because of his British way of writing, but you get used to it eventually. Such a great book and was instrumental in my thinking that the actual _existence_ of God is kind of an irrelevant concern in Christianity. Very empathetic and interesting arguments made. Also contains the most refreshing, genuine story of the gospel I've heard.
 
 #### [Finding God in the Waves](https://amzn.to/2DFpGfv)
 
-Really easy book to read and just chronicles Mike McHargue's (co-host of The Liturgists podcast) journey basically. Provides a lot of insight into _why_ people struggle with faith from a mostly Dawkins-esque viewpoint.
+Really easy book to read and just chronicles Mike McHargue's (co-host of The Liturgists podcast) journey basically. Provides a lot of insight into _why_ people struggle with faith from a mostly Dawkins-esque viewpoint, and chronicles how he came back to it but it looks different now.
 
 #### [Love Wins](https://amzn.to/381x7eX)
 
